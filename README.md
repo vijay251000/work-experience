@@ -1,49 +1,48 @@
-# 🚀 My Developer Portfolio
-
-Welcome to my portfolio repository! Here, you’ll find an overview of my work in **Unity 3D, Web3, iOS development, PHP, and AWS DevOps**. 
+# 🚀 Vijaykumar - Sr. Unity Developer Portfolio
 
 ## 👨‍💻 About Me
-I am a **Senior Unity Developer** with 12 years of IT experience, including:
-- 🕹 **8 years in Unity 3D** (Game development, UI systems, AR/VR)
+I am a **Senior Unity Developer** with 12 years of IT experience, specializing in **Mobile and Desktop applications** development. My expertise includes:
+- 🕹 **7+ years in Unity 3D** (Game development, XR applications, WebGL, Mobile)
 - 📱 **3 years in iOS native development** (Swift, Objective-C)
 - 🌐 **1 year in PHP development**
-- ☁ **Currently exploring AWS DevOps** (CI/CD, Terraform, Docker)
+- ☁ **AWS Cloud and DevOps exploration**
 
 ## 🔧 Tech Stack
-- **Languages:** C#, Python, Swift, PHP, Bash
-- **Game Engines:** Unity 3D (2021.1.28), Unreal Engine (Basic)
-- **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, Terraform, Jenkins, Kubernetes
-- **Version Control:** Git, GitHub, Bitbucket
-- **Other Tools:** Firebase, PlayFab, Web3.js, XR SDKs
+- **Languages:** C#, C, C++, PHP, Objective-C, HTML Basics
+- **Game Engines:** Unity 3D (6000.0.29,2021.1.28)
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker
+- **Platforms & XR Devices:** Desktop, VR, AR, MR, Mobile Apps (Apple Vision Pro, HoloLens, HTC Vive, Oculus Quest, HP MR devices)
+- **Tools & Features:** Unity UI, Lighting & Rendering, Shaders, Particle Systems, Asset Bundling, Multiplayer, Hologram, WebGL, LMS, SCORM, Neurosky Mindwave, 360° Image & Video, Alexa Echo Dot
 
 ## 📂 Featured Projects
 
-### 🎮 Unity Projects
-1. **[Project Name - Game/App]**  
-   - Description: [Short description]
-   - Tech Used: Unity, C#, Firebase, Web3
-   - [GitHub Repo](#) | [Demo](#)
+### 🎮 Unity & XR Projects
+1. **Cisco Metaverse (Oculus Quest)**  
+   - Developed a virtual reality multiplayer experience.
+   - Tech Used: Unity, C#, Oculus SDK
 
-2. **[Project Name - Web3 Integration]**  
-   - Description: Blockchain integration in Unity
-   - Tech Used: Unity, Web3.js, Ethereum
-   - [GitHub Repo](#) | [Demo](#)
+2. **VR Training for Applied Material**  
+   - Created an Assembly & Disassembly sequence training module in VR.
+   - Tech Used: Unity, VR SDKs
 
-### ☁ DevOps & Cloud Projects
-3. **[Project Name - AWS CI/CD Pipeline]**  
-   - Description: Automated Unity builds with AWS & Jenkins
-   - Tech Used: AWS, Docker, Terraform, Jenkins
-   - [GitHub Repo](#) | [Demo](#)
+3. **Verinome Bio AR (iOS App)**  
+   - Developed an AR app displaying mouse cells in an augmented environment.
+   - Tech Used: Unity, ARKit, iOS
 
-## 📝 Blogs & Articles
-- [Optimizing Performance in Unity WebGL](#)
-- [Setting Up a CI/CD Pipeline for Unity with AWS](#)
-- [Web3 Integration in Unity – A Beginner’s Guide](#)
+4. **SURAXA Platform**  
+   - Led the development of a cloud-based gamified industrial safety training application.
+   - Tech Used: Unity, AWS, Multiplayer Systems
+
+5. **Safety Training VR Application**  
+   - Built an immersive VR application for workers to learn safety protocols.
+   - Tech Used: Unity, VR SDKs, Gamification
+
+6. **Digital Work Instruction (WebGL & Mobile)**  
+   - Developed an interactive training application for Wipro.
+   - Tech Used: Unity, WebGL, Mobile
 
 ## 📫 Contact Me
-- **LinkedIn:** [Your Profile](#)
-- **GitHub:** [Your GitHub](#)
-- **Email:** your.email@example.com
-
----
-Feel free to explore my projects and reach out if you're interested in collaboration! 🚀
+- **Mobile:** +91 8310705093
+- **E-mail:** vk00826416@techmahindra.com / vijaykumar11895@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/vijay-kumar-58480a73/
+- **GitHub:** https://github.com/vijay251000/work-experience/edit/main
