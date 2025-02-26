@@ -49,8 +49,4 @@ I am a **Senior Unity Developer** with 12 years of IT experience, specializing i
 
 ## 📫 Samples
 <img width="395" alt="1" src="https://github.com/user-attachments/assets/05f97902-773d-45d5-add8-46a19f3aff9b" />
-sample.mp4
-![2](https://github.com/user-attachments/assets/d5db9663-3a0a-4cb8-b856-1111fb42b7b3)
-
-
-
+https://github.com/vijay251000/work-experience/blob/main/2.png
